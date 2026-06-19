@@ -1,5 +1,7 @@
 # MedKGent
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20759287.svg)](https://doi.org/10.5281/zenodo.20759287)
+
 Welcome to the MedKGent repository! This repository contains the code for MedKGent, a framework designed for constructing temporally evolving medical knowledge graphs using large language models.
 
 ![MedKGent Overview](figs/Figure1.jpg)
