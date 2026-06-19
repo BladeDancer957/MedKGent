@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: "MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Zhang
+    given-names: Duzhen
+
+repository-code: "https://github.com/BladeDancer957/MedKGent"
+url: "https://github.com/BladeDancer957/MedKGent"
+abstract: "MedKGent is a framework designed for constructing temporally evolving medical knowledge graphs using large language models."
+keywords:
+  - medical knowledge graph
+  - large language model
+  - biomedical text mining
+  - temporal knowledge graph
+
+version: 1.0.0
+date-released: 2026-06-18
+
+preferred-citation:
+  type: article
+  title: "MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph"
+  authors:
+    - family-names: Zhang
+      given-names: Duzhen
+    - family-names: Wang
+      given-names: Zixiao
+    - family-names: Li
+      given-names: Zhong-Zhi
+    - family-names: Yu
+      given-names: Yahan
+    - family-names: Jia
+      given-names: Shuncheng
+    - family-names: Dong
+      given-names: Jiahua
+    - family-names: Xu
+      given-names: Haotian
+    - family-names: Wu
+      given-names: Xing
+    - family-names: Zhang
+      given-names: Yingying
+    - family-names: Zhang
+      given-names: Tielin
+    - family-names: Yang
+      given-names: Jie
+    - family-names: Chen
+      given-names: Xiuying
+    - family-names: Song
+      given-names: Le
+
+  journal: "arXiv preprint arXiv:2508.12393"
+  year: 2025
