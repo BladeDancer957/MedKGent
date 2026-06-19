@@ -1,0 +1,275 @@
+{
+  "abstract": "Tritium-labelled 4-deoxy-D-glucose (4-dglc) and 6-deoxy-D-glucose (6-dgcl) were prepared by catalytic hydrogenolysis of the corresponding deoxyiodo derivatives with gaseous tritium. The two sugars are transported into Saccharomyces cerevisiae by both the constitutive glucose and the inducible galactose carrier. Uranyl ions are powerful inhibitors. The pH optimum in uninduced cells lies at 5.5 for both sugars, the apparent activation energies (between 15 and 35 degrees C) are 25.1 kJ/mol and 16.5 kJ/mol, respectively. The steady-state intracellular concentration of both sugars is less than the extracellular one (no uphill transport). Neither of them is a substrate of yeast hexokinase. 4-Deoxy-D-glucose undergoes a dinitrophenol-sensitive conversion to an unknown metabolite which is not phosphorylated and may represent one of its oxidation products.",
+  "entities": [
+    {
+      "text": "Tritium",
+      "name": "Tritium",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 0,
+          "length": 7
+        }
+      ],
+      "identifier": "MESH:D014316",
+      "normalized_id": "D014316",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D014316"
+    },
+    {
+      "text": "4-deoxy-D-glucose",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 17,
+          "length": 17
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "4-dglc",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 36,
+          "length": 6
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "6-deoxy-D-glucose",
+      "name": "6-deoxyglucose",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 48,
+          "length": 17
+        }
+      ],
+      "identifier": "MESH:C037904",
+      "normalized_id": "C037904",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=C037904"
+    },
+    {
+      "text": "6-dgcl",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 67,
+          "length": 6
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "deoxyiodo",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 138,
+          "length": 9
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "tritium",
+      "name": "Tritium",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 173,
+          "length": 7
+        }
+      ],
+      "identifier": "MESH:D014316",
+      "normalized_id": "D014316",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D014316"
+    },
+    {
+      "text": "sugars",
+      "name": "Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 190,
+          "length": 6
+        }
+      ],
+      "identifier": "MESH:D000073893",
+      "normalized_id": "D000073893",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000073893"
+    },
+    {
+      "text": "Saccharomyces cerevisiae",
+      "name": "4932",
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 218,
+          "length": 24
+        }
+      ],
+      "identifier": "4932",
+      "normalized_id": 4932,
+      "database": "ncbi_taxonomy",
+      "database_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4932"
+    },
+    {
+      "text": "glucose",
+      "name": "Glucose",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 268,
+          "length": 7
+        }
+      ],
+      "identifier": "MESH:D005947",
+      "normalized_id": "D005947",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D005947"
+    },
+    {
+      "text": "galactose",
+      "name": "Galactose",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 294,
+          "length": 9
+        }
+      ],
+      "identifier": "MESH:D005690",
+      "normalized_id": "D005690",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D005690"
+    },
+    {
+      "text": "Uranyl",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 313,
+          "length": 6
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "sugars",
+      "name": "Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 405,
+          "length": 6
+        }
+      ],
+      "identifier": "MESH:D000073893",
+      "normalized_id": "D000073893",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000073893"
+    },
+    {
+      "text": "sugars",
+      "name": "Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 576,
+          "length": 6
+        }
+      ],
+      "identifier": "MESH:D000073893",
+      "normalized_id": "D000073893",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000073893"
+    },
+    {
+      "text": "yeast",
+      "name": "4932",
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 675,
+          "length": 5
+        }
+      ],
+      "identifier": "4932",
+      "normalized_id": 4932,
+      "database": "ncbi_taxonomy",
+      "database_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4932"
+    },
+    {
+      "text": "hexokinase",
+      "name": "YLR446W",
+      "type": "Gene",
+      "locations": [
+        {
+          "offset": 681,
+          "length": 10
+        }
+      ],
+      "identifier": "851167",
+      "normalized_id": 851167,
+      "database": "ncbi_gene",
+      "database_url": "https://www.ncbi.nlm.nih.gov/gene/851167"
+    },
+    {
+      "text": "4-Deoxy-D-glucose",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 693,
+          "length": 17
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "dinitrophenol",
+      "name": "Dinitrophenols",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 723,
+          "length": 13
+        }
+      ],
+      "identifier": "MESH:D004140",
+      "normalized_id": "D004140",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D004140"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "abstract": "Non-occluded virions of a nuclear polyhedrosis virus of the alfalfa looper, Autographa californica, found in the medium of cell cultures of infected fall armyworm, Spodopter frugiperda, and in the hemolymph of infected S. frugiperda larvae were partially characterized by biological, chemical and physical methods. Also, the rate of appearance of the virions was studied in cell culture and the host insect to determine maximum virion production. Virions obtained from both sources were heat-sensitive, acid-labile and inactivated by several organic solvents. The non-occluded virions found in the insect cell culture fluid and in the hemolymph were identical, and both were enveloped nucleocapsids. Visualization of the fragilely enveloped nucleocapsid was accomplished only after fixation with glutaraldehyde. Differences between the non-occluded and occluded virions of nuclear polyhedrosis viruses are discussed.",
+  "entities": [
+    {
+      "text": "nuclear polyhedrosis virus",
+      "name": "10471",
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 26,
+          "length": 26
+        }
+      ],
+      "identifier": "10471",
+      "normalized_id": 10471,
+      "database": "ncbi_taxonomy",
+      "database_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10471"
+    },
+    {
+      "text": "alfalfa looper",
+      "name": "572729",
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 60,
+          "length": 14
+        }
+      ],
+      "identifier": "572729",
+      "normalized_id": 572729,
+      "database": "ncbi_taxonomy",
+      "database_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572729"
+    },
+    {
+      "text": "Autographa californica",
+      "name": "572729",
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 76,
+          "length": 22
+        }
+      ],
+      "identifier": "572729",
+      "normalized_id": 572729,
+      "database": "ncbi_taxonomy",
+      "database_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=572729"
+    },
+    {
+      "text": "fall armyworm",
+      "name": "7108",
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 149,
+          "length": 13
+        }
+      ],
+      "identifier": "7108",
+      "normalized_id": 7108,
+      "database": "ncbi_taxonomy",
+      "database_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7108"
+    },
+    {
+      "text": "Spodopter frugiperda",
+      "name": null,
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 164,
+          "length": 20
+        }
+      ],
+      "identifier": null,
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "S. frugiperda",
+      "name": "7108",
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 219,
+          "length": 13
+        }
+      ],
+      "identifier": "7108",
+      "normalized_id": 7108,
+      "database": "ncbi_taxonomy",
+      "database_url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=7108"
+    },
+    {
+      "text": "glutaraldehyde",
+      "name": "Glutaral",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 796,
+          "length": 14
+        }
+      ],
+      "identifier": "MESH:D005976",
+      "normalized_id": "D005976",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D005976"
+    }
+  ]
+}

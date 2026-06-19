@@ -1,0 +1,200 @@
+{
+  "abstract": "Hydrolysis rates of N-acetyl dehydroalanine methyl ester (methyl 2-acetamidoacrylate) and related model compounds were measured in aqueous, organic and mixed aqueous media. Adding dimethylsulfoxide (DMSO) to water, retarded hydrolysis of the ester by a factor of 2 to 500, depending on the pH of the medium and concentration of DMSO. Ethanol also slowed hydrolysis, but the effect was not so pronounced. Related studies show that the acetamido group C-N bond of sodium 2-acetamido-acrylate is hydrolyzed only about 1/130 as fast as the ester group C-O bond. Aqueous dimethyl sulfoxide should by a useful medium for synthesis of peptide, amino acid and protein derivatives of N-acetyl dehydroalanine methyl ester.",
+  "entities": [
+    {
+      "text": "N-acetyl dehydroalanine methyl ester",
+      "name": "N-acetyldehydroalanine methyl ester",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 20,
+          "length": 36
+        }
+      ],
+      "identifier": "MESH:C011392",
+      "normalized_id": "C011392",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=C011392"
+    },
+    {
+      "text": "methyl 2-acetamidoacrylate",
+      "name": "N-acetyldehydroalanine methyl ester",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 58,
+          "length": 26
+        }
+      ],
+      "identifier": "MESH:C011392",
+      "normalized_id": "C011392",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=C011392"
+    },
+    {
+      "text": "dimethylsulfoxide",
+      "name": "Dimethyl Sulfoxide",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 180,
+          "length": 17
+        }
+      ],
+      "identifier": "MESH:D004121",
+      "normalized_id": "D004121",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D004121"
+    },
+    {
+      "text": "DMSO",
+      "name": "Dimethyl Sulfoxide",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 199,
+          "length": 4
+        }
+      ],
+      "identifier": "MESH:D004121",
+      "normalized_id": "D004121",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D004121"
+    },
+    {
+      "text": "water",
+      "name": "Water",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 208,
+          "length": 5
+        }
+      ],
+      "identifier": "MESH:D014867",
+      "normalized_id": "D014867",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D014867"
+    },
+    {
+      "text": "ester",
+      "name": "Esters",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 242,
+          "length": 5
+        }
+      ],
+      "identifier": "MESH:D004952",
+      "normalized_id": "D004952",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D004952"
+    },
+    {
+      "text": "DMSO",
+      "name": "Dimethyl Sulfoxide",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 328,
+          "length": 4
+        }
+      ],
+      "identifier": "MESH:D004121",
+      "normalized_id": "D004121",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D004121"
+    },
+    {
+      "text": "Ethanol",
+      "name": "Ethanol",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 334,
+          "length": 7
+        }
+      ],
+      "identifier": "MESH:D000431",
+      "normalized_id": "D000431",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000431"
+    },
+    {
+      "text": "sodium 2-acetamido-acrylate",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 462,
+          "length": 27
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "ester",
+      "name": "Esters",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 536,
+          "length": 5
+        }
+      ],
+      "identifier": "MESH:D004952",
+      "normalized_id": "D004952",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D004952"
+    },
+    {
+      "text": "dimethyl sulfoxide",
+      "name": "Dimethyl Sulfoxide",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 566,
+          "length": 18
+        }
+      ],
+      "identifier": "MESH:D004121",
+      "normalized_id": "D004121",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D004121"
+    },
+    {
+      "text": "peptide",
+      "name": "Peptides",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 628,
+          "length": 7
+        }
+      ],
+      "identifier": "MESH:D010455",
+      "normalized_id": "D010455",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D010455"
+    },
+    {
+      "text": "N-acetyl dehydroalanine methyl ester",
+      "name": "N-acetyldehydroalanine methyl ester",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 675,
+          "length": 36
+        }
+      ],
+      "identifier": "MESH:C011392",
+      "normalized_id": "C011392",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=C011392"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "abstract": "A simple method of isolation and purification of cultures of higher fungi, mainly wood-rotting fungi, without special requirements for the presence of nitrogencontaining nutrients is described. Parts of fruiting bodies, spores or infected wood is inoculated on Petri dishes with an agar medium of the following composition: 1.0 g KH2PO4, 0.2 g MgSO4 - 7 H2O, 0.1 g caSO4, 0.01 g Fe2(SO4)3, 10.0 g glucose, tap water to 1 litre; 20.0 g agar. This medium does not suit most of the contaminants but fungal hyphae overgrow the whole surface of the dish so that a purified culture can be obtained from parts distant from the inoculation site.",
+  "entities": [
+    {
+      "text": "agar",
+      "name": "Agar",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 282,
+          "length": 4
+        }
+      ],
+      "identifier": "MESH:D000362",
+      "normalized_id": "D000362",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000362"
+    },
+    {
+      "text": "KH2PO4",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 330,
+          "length": 6
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "MgSO4 - 7 H2O",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 344,
+          "length": 13
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "caSO4",
+      "name": "Calcium Sulfate",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 365,
+          "length": 5
+        }
+      ],
+      "identifier": "MESH:D002133",
+      "normalized_id": "D002133",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D002133"
+    },
+    {
+      "text": "Fe2(SO4)3",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 379,
+          "length": 9
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "glucose",
+      "name": "Glucose",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 397,
+          "length": 7
+        }
+      ],
+      "identifier": "MESH:D005947",
+      "normalized_id": "D005947",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D005947"
+    },
+    {
+      "text": "water",
+      "name": "Water",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 410,
+          "length": 5
+        }
+      ],
+      "identifier": "MESH:D014867",
+      "normalized_id": "D014867",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D014867"
+    },
+    {
+      "text": "agar",
+      "name": "Agar",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 435,
+          "length": 4
+        }
+      ],
+      "identifier": "MESH:D000362",
+      "normalized_id": "D000362",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000362"
+    }
+  ]
+}

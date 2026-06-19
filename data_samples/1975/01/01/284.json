@@ -1,0 +1,170 @@
+{
+  "abstract": "In the presence of amino sugars D-glucosamine and D-galactosamine no spontaneous competence could be observed in the highly transformable R6bd strain of Pneumococcus or it was decreased by several orders of magnitude. The highest inhibition of competence was detected when the amino sugar at a concentration 5 mg/ml of the medium was added not only to the transformation but also to the pretransformation medium. After a 150 min growth in the transformation medium in the presence of the amino sugar a 3--4-fold greater number of cells (as a viable count) could be detected as compared with the control without the amino sugar. It was found microscopically that the amino sugar prevents natural agglutination, which normally occurs in the competent culture. The role of specific amino sugar determinants for binding of the competence factor on the cell surface and the resulting inhibitory effect of these sugars on the development of competence are discussed.",
+  "entities": [
+    {
+      "text": "amino sugars",
+      "name": "Amino Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 19,
+          "length": 12
+        }
+      ],
+      "identifier": "MESH:D000606",
+      "normalized_id": "D000606",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000606"
+    },
+    {
+      "text": "D-glucosamine",
+      "name": "Glucosamine",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 32,
+          "length": 13
+        }
+      ],
+      "identifier": "MESH:D005944",
+      "normalized_id": "D005944",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D005944"
+    },
+    {
+      "text": "D-galactosamine",
+      "name": null,
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 50,
+          "length": 15
+        }
+      ],
+      "identifier": "-",
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "R6bd",
+      "name": null,
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 138,
+          "length": 4
+        }
+      ],
+      "identifier": null,
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "Pneumococcus",
+      "name": null,
+      "type": "Species",
+      "locations": [
+        {
+          "offset": 153,
+          "length": 12
+        }
+      ],
+      "identifier": null,
+      "normalized_id": null,
+      "database": null,
+      "database_url": ""
+    },
+    {
+      "text": "amino sugar",
+      "name": "Amino Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 277,
+          "length": 11
+        }
+      ],
+      "identifier": "MESH:D000606",
+      "normalized_id": "D000606",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000606"
+    },
+    {
+      "text": "amino sugar",
+      "name": "Amino Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 488,
+          "length": 11
+        }
+      ],
+      "identifier": "MESH:D000606",
+      "normalized_id": "D000606",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000606"
+    },
+    {
+      "text": "amino sugar",
+      "name": "Amino Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 615,
+          "length": 11
+        }
+      ],
+      "identifier": "MESH:D000606",
+      "normalized_id": "D000606",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000606"
+    },
+    {
+      "text": "amino sugar",
+      "name": "Amino Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 666,
+          "length": 11
+        }
+      ],
+      "identifier": "MESH:D000606",
+      "normalized_id": "D000606",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000606"
+    },
+    {
+      "text": "amino sugar",
+      "name": "Amino Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 779,
+          "length": 11
+        }
+      ],
+      "identifier": "MESH:D000606",
+      "normalized_id": "D000606",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000606"
+    },
+    {
+      "text": "sugars",
+      "name": "Sugars",
+      "type": "Chemical",
+      "locations": [
+        {
+          "offset": 906,
+          "length": 6
+        }
+      ],
+      "identifier": "MESH:D000073893",
+      "normalized_id": "D000073893",
+      "database": "ncbi_mesh",
+      "database_url": "https://meshb.nlm.nih.gov/record/ui?ui=D000073893"
+    }
+  ]
+}
