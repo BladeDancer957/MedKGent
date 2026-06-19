@@ -79,7 +79,7 @@ You can also override the default runtime parameters:
 
 You can explore the Medical Knowledge Graph built using the MedKGent framework here: [MedKGent-KG](https://huggingface.co/datasets/ShowerMaker/MedKGent-KG).
 
-## ⚙️ Notes on the Current Code Version
+## ⚙️ Notes
 
 The current code version in this repository uses ready-to-use commercial LLM APIs and processes abstracts serially in chronological order.
 
