@@ -83,7 +83,7 @@ You can explore the Medical Knowledge Graph built using the MedKGent framework h
 
 The current code version in this repository uses ready-to-use commercial LLM APIs and processes abstracts serially in chronological order.
 
-Since the number of abstracts to be processed is very large, at the scale of tens of millions, we deployed open-source LLMs ourselves when using MedKGent to reduce API calling costs, and we also implemented parallel extraction to accelerate the construction process.
+Since the number of abstracts to be processed is very large, at the scale of tens of millions, we deployed open-source LLMs ourselves when using MedKGent to reduce API calling costs, and we also implemented parallel extraction to accelerate.
 
 If you have any questions or need help with deploying open-source LLMs or accelerating extraction with parallel processing, please feel free to contact us.
 
